@@ -106,7 +106,7 @@ GC Members:
 * Christopher Allison, Canada School of Public Service
 * Elizabeth Rhodenizer, Public Service Commission
 * Gabrielle Cossette, Shared Services Canada
-* Stephane Dufour, Statistics Canada
+* Stéphane Dufour, Statistics Canada
 * Peter Silva, Environment
 * Jacob Raffoul, Employment and Social Development Canada
 * Guylaine Carrière / Caroline Bessett, Shared Services Canada

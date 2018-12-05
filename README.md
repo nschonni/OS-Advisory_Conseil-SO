@@ -16,6 +16,7 @@ The objectives of the Board will be two-fold. First, to have a discussion at the
 - [Resources](en/Resources/resources.md)
 _________________________________________________________________________________________________________________________________________
 
+<!-- cspell:disable -->
 Ce Conseil compte deux principaux objectifs. Premièrement, il sert à tenir une discussion au niveau de la direction quant à l'utilisation et à l'intégration les plus efficaces des outils à source ouverte au sein du GC afin d’appuyer l’atteinte de nos objectifs en matière de numérique. Deuxièmement, il nous aidera à identifier et à résoudre les obstacles les plus importants à l'utilisation d'outils à source ouverte (p. ex., problèmes en matière d'approvisionnement, de culture et d'infrastructure).
 
 ## Table des matières
@@ -27,3 +28,4 @@ Ce Conseil compte deux principaux objectifs. Premièrement, il sert à tenir une
 - [FAQ](fr/4_FAQ.md)
 - [Évaluations](Assessments)
 - [Ressources](fr/Ressources/ressources.md)
+<!-- cspell:enable -->

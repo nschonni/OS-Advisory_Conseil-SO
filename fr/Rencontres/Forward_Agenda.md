@@ -21,7 +21,7 @@
 * Working group updates
 * Future presentation on leveraging Open Source for the future GC Digital landscape
 * Iteration process: mechanisms for feedback aren't clear
-* Open Source support model: ESDC presentatio
+* Open Source support model: ESDC presentation
 * OECD playbook
   * Open procurement
 * Robot Missions

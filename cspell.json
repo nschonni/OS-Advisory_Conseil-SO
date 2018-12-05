@@ -1,6 +1,5 @@
 {
     "version": "0.1",
-    "language": "en",
     "words": [
         "Affer",
         "anonymization",
@@ -161,8 +160,6 @@
         "Slidewiki",
         "SMEs",
         "SPARQL",
-        "Statscan",
-        "Stephane",
         "Stéphane",
         "Suleman",
         "Syed",
@@ -186,5 +183,17 @@
     "flagWords": [],
     "dictionaries": [
         "en-gb"
+    ],
+    "ignorePaths": ["node_modules/**"],
+    "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
+    "overrides": [
+      {
+        "language": "en",
+        "filename": "en/**/*.md"
+      },
+      {
+        "language": "fr",
+        "filename": "fr/**/*.md"
+      }
     ]
 }
